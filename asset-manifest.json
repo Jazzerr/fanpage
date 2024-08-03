@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Jazzerr/fanpage/static/css/main.40e0f838.css",
-    "main.js": "/Jazzerr/fanpage/static/js/main.d9dcff8e.js",
-    "static/js/453.36b590c6.chunk.js": "/Jazzerr/fanpage/static/js/453.36b590c6.chunk.js",
-    "static/media/bg_photo.jpg": "/Jazzerr/fanpage/static/media/bg_photo.6b671bb0914d8b715e51.jpg",
-    "static/media/IMG_0444.jpg": "/Jazzerr/fanpage/static/media/IMG_0444.324b2d21e05394ed10ee.jpg",
-    "index.html": "/Jazzerr/fanpage/index.html",
-    "main.40e0f838.css.map": "/Jazzerr/fanpage/static/css/main.40e0f838.css.map",
-    "main.d9dcff8e.js.map": "/Jazzerr/fanpage/static/js/main.d9dcff8e.js.map",
-    "453.36b590c6.chunk.js.map": "/Jazzerr/fanpage/static/js/453.36b590c6.chunk.js.map"
+    "main.css": "/fanpage/static/css/main.4b3605de.css",
+    "main.js": "/fanpage/static/js/main.305d5834.js",
+    "static/js/453.36b590c6.chunk.js": "/fanpage/static/js/453.36b590c6.chunk.js",
+    "static/media/bg_photo.jpg": "/fanpage/static/media/bg_photo.6b671bb0914d8b715e51.jpg",
+    "static/media/IMG_0444.jpg": "/fanpage/static/media/IMG_0444.324b2d21e05394ed10ee.jpg",
+    "index.html": "/fanpage/index.html",
+    "main.4b3605de.css.map": "/fanpage/static/css/main.4b3605de.css.map",
+    "main.305d5834.js.map": "/fanpage/static/js/main.305d5834.js.map",
+    "453.36b590c6.chunk.js.map": "/fanpage/static/js/453.36b590c6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.40e0f838.css",
-    "static/js/main.d9dcff8e.js"
+    "static/css/main.4b3605de.css",
+    "static/js/main.305d5834.js"
   ]
 }
